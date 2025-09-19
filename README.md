@@ -1,7 +1,7 @@
 
 # Hi, I'm Zachary 👋
 
-I'm a cybersecurity and network engineering professional with a passion for designing secure, scalable, and efficient systems. .
+I'm a cybersecurity and network engineering professional with a passion for designing secure, scalable, and efficient systems.
 
 ---
 
