@@ -8,7 +8,6 @@ I'm a cybersecurity and network engineering professional with a passion for desi
 ## 💼 About Me
 
 - Currently pursuing a Master of Science in Cybersecurity Analytics and Operations at Penn State
-- Network & Security Engineer with experience in IDS/IPS, Cisco IOS, VMware vSphere, Proxmox, and cloud solutions  
 - Skilled in Python, PowerShell, Bash scripting, and IT automation  
 - Experienced in log analysis, alerting platforms, and building virtualization clusters  
 - Passionate about cybersecurity, secure network design, and operational efficiency  
