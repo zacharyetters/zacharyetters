@@ -1,6 +1,6 @@
 # Hi, I'm Zachary 👋
 
-I'm a cybersecurity and network engineering professional focused on designing secure, scalable systems.
+I'm a cybersecurity and network engineering professional focused on designing secure and scalable systems.
 
 - 🎓 Pursuing an M.S. in Cybersecurity Analytics and Operations at Penn State
 - 💼 Security Analyst Intern at Blue Mountain
