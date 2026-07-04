@@ -1,18 +1,10 @@
-
 # Hi, I'm Zachary 👋
 
-I'm a cybersecurity and network engineering professional with a passion for designing secure, scalable, and efficient systems.
+I'm a cybersecurity and network engineering professional focused on designing secure, scalable systems.
 
----
-
-## 💼 About Me
-
-- Currently pursuing a Master of Science in Cybersecurity Analytics and Operations at Penn State
-- Skilled in Python, PowerShell, Bash scripting, and IT automation  
-- Experienced in log analysis, alerting platforms, and building virtualization clusters  
-- Passionate about cybersecurity, secure network design, and operational efficiency  
-
----
+- 🎓 Pursuing an M.S. in Cybersecurity Analytics and Operations at Penn State
+- 💼 Security Analyst Intern at Blue Mountain
+- 🧪 Experienced in log analysis, alerting platforms, and building virtualization environments
 
 <!--
 **zacharyetters/zacharyetters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
